@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Carollini Gimenes</h1>
-<h3>A passionate frontend developer from Brazil.</h3>
+<h3>A passionate frontend developer.</h3>
 
 
 - 🔭Today I work as a Freelance Developer.
